@@ -1,2 +1,0 @@
-# my-course-repo
-h
