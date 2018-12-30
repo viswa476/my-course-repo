@@ -1,4 +1,4 @@
-public class devops(){
+public devops(){
 
 
 	int a=4, b=6:
